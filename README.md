@@ -1,10 +1,6 @@
 # Java Swing User Registration Form
 
-A simple desktop UI application built with **Java Swing**. This project demonstrates core GUI design principles, input validation and event handling.
-
-----
-
-**Preview:**
+A simple desktop UI application built with **Java Swing**. This project demonstrates core GUI design principles, input validation and event handling
 
 ----
 
